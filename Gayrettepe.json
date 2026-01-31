@@ -1,0 +1,5938 @@
+{
+  "1001": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "06:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "06:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "06:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "06:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "06:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "06:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "06:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "06:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "06:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "06:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "06:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "06:44"
+      }
+    ]
+  },
+  "1003": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "06:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "06:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "06:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "06:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "06:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "06:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "06:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "06:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "06:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "06:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "07:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "07:04"
+      }
+    ]
+  },
+  "1005": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "06:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "06:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "06:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "06:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "06:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "06:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "07:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "07:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "07:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "07:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "07:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "07:24"
+      }
+    ]
+  },
+  "1007": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "07:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "07:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "07:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "07:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "07:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "07:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "07:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "07:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "07:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "07:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "07:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "07:44"
+      }
+    ]
+  },
+  "1009": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "07:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "07:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "07:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "07:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "07:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "07:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "07:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "07:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "07:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "07:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "08:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "08:04"
+      }
+    ]
+  },
+  "1011": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "07:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "07:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "07:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "07:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "07:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "07:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "08:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "08:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "08:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "08:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "08:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "08:24"
+      }
+    ]
+  },
+  "1013": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "08:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "08:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "08:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "08:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "08:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "08:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "08:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "08:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "08:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "08:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "08:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "08:44"
+      }
+    ]
+  },
+  "1015": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "08:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "08:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "08:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "08:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "08:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "08:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "08:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "08:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "08:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "08:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "09:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "09:04"
+      }
+    ]
+  },
+  "1017": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "08:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "08:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "08:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "08:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "08:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "08:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "09:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "09:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "09:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "09:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "09:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "09:24"
+      }
+    ]
+  },
+  "1019": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "09:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "09:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "09:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "09:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "09:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "09:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "09:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "09:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "09:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "09:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "09:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "09:44"
+      }
+    ]
+  },
+  "1021": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "09:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "09:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "09:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "09:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "09:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "09:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "09:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "09:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "09:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "09:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "10:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "10:04"
+      }
+    ]
+  },
+  "1023": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "09:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "09:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "09:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "09:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "09:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "09:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "10:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "10:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "10:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "10:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "10:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "10:24"
+      }
+    ]
+  },
+  "1025": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "10:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "10:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "10:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "10:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "10:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "10:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "10:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "10:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "10:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "10:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "10:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "10:44"
+      }
+    ]
+  },
+  "1027": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "10:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "10:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "10:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "10:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "10:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "10:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "10:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "10:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "10:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "10:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "11:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "11:04"
+      }
+    ]
+  },
+  "1029": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "10:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "10:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "10:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "10:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "10:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "10:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "11:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "11:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "11:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "11:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "11:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "11:24"
+      }
+    ]
+  },
+  "1031": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "11:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "11:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "11:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "11:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "11:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "11:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "11:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "11:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "11:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "11:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "11:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "11:44"
+      }
+    ]
+  },
+  "1033": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "11:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "11:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "11:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "11:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "11:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "11:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "11:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "11:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "11:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "11:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "12:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "12:04"
+      }
+    ]
+  },
+  "1035": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "11:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "11:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "11:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "11:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "11:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "11:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "12:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "12:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "12:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "12:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "12:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "12:24"
+      }
+    ]
+  },
+  "1037": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "12:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "12:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "12:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "12:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "12:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "12:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "12:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "12:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "12:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "12:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "12:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "12:44"
+      }
+    ]
+  },
+  "1039": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "12:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "12:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "12:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "12:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "12:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "12:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "12:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "12:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "12:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "12:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "13:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "13:04"
+      }
+    ]
+  },
+  "1041": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "12:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "12:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "12:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "12:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "12:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "12:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "13:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "13:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "13:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "13:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "13:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "13:24"
+      }
+    ]
+  },
+  "1043": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "13:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "13:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "13:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "13:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "13:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "13:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "13:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "13:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "13:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "13:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "13:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "13:44"
+      }
+    ]
+  },
+  "1045": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "13:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "13:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "13:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "13:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "13:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "13:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "13:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "13:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "13:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "13:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "14:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "14:04"
+      }
+    ]
+  },
+  "1047": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "13:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "13:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "13:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "13:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "13:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "13:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "14:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "14:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "14:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "14:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "14:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "14:24"
+      }
+    ]
+  },
+  "1049": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "14:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "14:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "14:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "14:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "14:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "14:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "14:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "14:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "14:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "14:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "14:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "14:44"
+      }
+    ]
+  },
+  "1051": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "14:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "14:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "14:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "14:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "14:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "14:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "14:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "14:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "14:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "14:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "15:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "15:04"
+      }
+    ]
+  },
+  "1053": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "14:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "14:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "14:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "14:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "14:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "14:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "15:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "15:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "15:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "15:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "15:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "15:24"
+      }
+    ]
+  },
+  "1055": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "15:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "15:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "15:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "15:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "15:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "15:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "15:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "15:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "15:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "15:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "15:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "15:44"
+      }
+    ]
+  },
+  "1057": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "15:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "15:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "15:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "15:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "15:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "15:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "15:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "15:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "15:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "15:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "16:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "16:04"
+      }
+    ]
+  },
+  "1059": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "15:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "15:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "15:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "15:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "15:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "15:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "16:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "16:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "16:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "16:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "16:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "16:24"
+      }
+    ]
+  },
+  "1061": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "16:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "16:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "16:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "16:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "16:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "16:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "16:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "16:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "16:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "16:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "16:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "16:44"
+      }
+    ]
+  },
+  "1063": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "16:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "16:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "16:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "16:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "16:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "16:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "16:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "16:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "16:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "16:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "17:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "17:04"
+      }
+    ]
+  },
+  "1065": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "16:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "16:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "16:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "16:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "16:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "16:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "17:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "17:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "17:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "17:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "17:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "17:24"
+      }
+    ]
+  },
+  "1067": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "17:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "17:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "17:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "17:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "17:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "17:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "17:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "17:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "17:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "17:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "17:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "17:44"
+      }
+    ]
+  },
+  "1069": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "17:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "17:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "17:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "17:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "17:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "17:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "17:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "17:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "17:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "17:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "18:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "18:04"
+      }
+    ]
+  },
+  "1071": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "17:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "17:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "17:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "17:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "17:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "17:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "18:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "18:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "18:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "18:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "18:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "18:24"
+      }
+    ]
+  },
+  "1073": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "18:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "18:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "18:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "18:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "18:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "18:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "18:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "18:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "18:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "18:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "18:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "18:44"
+      }
+    ]
+  },
+  "1075": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "18:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "18:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "18:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "18:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "18:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "18:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "18:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "18:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "18:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "18:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "19:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "19:04"
+      }
+    ]
+  },
+  "1077": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "18:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "18:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "18:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "18:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "18:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "18:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "19:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "19:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "19:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "19:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "19:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "19:24"
+      }
+    ]
+  },
+  "1079": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "19:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "19:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "19:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "19:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "19:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "19:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "19:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "19:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "19:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "19:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "19:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "19:44"
+      }
+    ]
+  },
+  "1081": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "19:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "19:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "19:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "19:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "19:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "19:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "19:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "19:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "19:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "19:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "20:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "20:04"
+      }
+    ]
+  },
+  "1083": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "19:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "19:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "19:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "19:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "19:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "19:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "20:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "20:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "20:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "20:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "20:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "20:24"
+      }
+    ]
+  },
+  "1085": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "20:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "20:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "20:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "20:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "20:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "20:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "20:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "20:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "20:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "20:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "20:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "20:44"
+      }
+    ]
+  },
+  "1087": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "20:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "20:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "20:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "20:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "20:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "20:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "20:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "20:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "20:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "20:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "21:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "21:04"
+      }
+    ]
+  },
+  "1089": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "20:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "20:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "20:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "20:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "20:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "20:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "21:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "21:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "21:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "21:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "21:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "21:24"
+      }
+    ]
+  },
+  "1091": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "21:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "21:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "21:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "21:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "21:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "21:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "21:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "21:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "21:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "21:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "21:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "21:44"
+      }
+    ]
+  },
+  "1093": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "21:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "21:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "21:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "21:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "21:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "21:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "21:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "21:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "21:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "21:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "22:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "22:04"
+      }
+    ]
+  },
+  "1095": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "21:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "21:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "21:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "21:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "21:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "21:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "22:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "22:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "22:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "22:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "22:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "22:24"
+      }
+    ]
+  },
+  "1097": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "22:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "22:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "22:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "22:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "22:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "22:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "22:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "22:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "22:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "22:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "22:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "22:44"
+      }
+    ]
+  },
+  "1099": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "22:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "22:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "22:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "22:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "22:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "22:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "22:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "22:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "22:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "22:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "23:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "23:04"
+      }
+    ]
+  },
+  "1101": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "22:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "22:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "22:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "22:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "22:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "22:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "23:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "23:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "23:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "23:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "23:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "23:24"
+      }
+    ]
+  },
+  "1103": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "23:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "23:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "23:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "23:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "23:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "23:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "23:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "23:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "23:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "23:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "23:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "23:44"
+      }
+    ]
+  },
+  "1105": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "23:20",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "23:20"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "23:23"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "23:31"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "23:34"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "23:36"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "23:40"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "23:47"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "23:51"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "23:56"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "00:01"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "00:04"
+      }
+    ]
+  },
+  "1107": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "23:40",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "23:40"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "23:43"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "23:51"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "23:54"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "23:56"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "00:00"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "00:07"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "00:11"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "00:16"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "00:21"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "00:24"
+      }
+    ]
+  },
+  "1109": {
+    "hat": "Arnavutköy-Gayrettepe",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "00:00",
+    "kalkis_yeri": "Arnavutköy Hastane",
+    "varis_yeri": "Gayrettepe",
+    "duraklar": [
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "00:00"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "00:03"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "00:11"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "00:14"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "00:16"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "00:20"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "00:27"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "00:31"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "00:36"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "00:41"
+      },
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "00:44"
+      }
+    ]
+  },
+  "1002": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "06:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "06:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "06:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "06:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "06:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "06:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "06:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "06:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "06:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "06:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "06:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "06:57"
+      }
+    ]
+  },
+  "1004": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "06:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "06:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "06:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "06:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "06:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "06:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "06:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "07:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "07:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "07:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "07:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "07:17"
+      }
+    ]
+  },
+  "1006": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "06:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "06:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "06:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "07:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "07:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "07:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "07:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "07:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "07:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "07:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "07:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "07:37"
+      }
+    ]
+  },
+  "1008": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "07:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "07:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "07:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "07:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "07:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "07:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "07:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "07:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "07:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "07:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "07:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "07:57"
+      }
+    ]
+  },
+  "1010": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "07:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "07:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "07:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "07:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "07:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "07:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "07:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "08:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "08:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "08:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "08:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "08:17"
+      }
+    ]
+  },
+  "1012": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "07:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "07:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "07:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "08:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "08:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "08:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "08:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "08:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "08:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "08:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "08:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "08:37"
+      }
+    ]
+  },
+  "1014": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "08:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "08:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "08:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "08:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "08:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "08:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "08:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "08:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "08:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "08:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "08:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "08:57"
+      }
+    ]
+  },
+  "1016": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "08:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "08:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "08:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "08:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "08:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "08:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "08:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "09:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "09:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "09:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "09:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "09:17"
+      }
+    ]
+  },
+  "1018": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "08:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "08:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "08:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "09:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "09:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "09:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "09:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "09:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "09:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "09:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "09:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "09:37"
+      }
+    ]
+  },
+  "1020": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "09:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "09:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "09:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "09:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "09:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "09:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "09:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "09:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "09:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "09:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "09:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "09:57"
+      }
+    ]
+  },
+  "1022": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "09:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "09:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "09:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "09:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "09:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "09:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "09:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "10:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "10:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "10:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "10:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "10:17"
+      }
+    ]
+  },
+  "1024": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "09:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "09:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "09:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "10:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "10:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "10:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "10:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "10:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "10:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "10:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "10:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "10:37"
+      }
+    ]
+  },
+  "1026": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "10:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "10:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "10:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "10:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "10:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "10:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "10:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "10:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "10:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "10:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "10:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "10:57"
+      }
+    ]
+  },
+  "1028": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "10:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "10:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "10:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "10:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "10:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "10:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "10:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "11:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "11:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "11:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "11:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "11:17"
+      }
+    ]
+  },
+  "1030": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "10:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "10:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "10:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "11:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "11:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "11:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "11:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "11:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "11:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "11:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "11:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "11:37"
+      }
+    ]
+  },
+  "1032": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "11:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "11:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "11:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "11:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "11:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "11:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "11:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "11:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "11:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "11:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "11:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "11:57"
+      }
+    ]
+  },
+  "1034": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "11:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "11:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "11:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "11:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "11:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "11:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "11:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "12:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "12:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "12:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "12:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "12:17"
+      }
+    ]
+  },
+  "1036": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "11:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "11:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "11:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "12:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "12:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "12:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "12:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "12:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "12:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "12:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "12:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "12:37"
+      }
+    ]
+  },
+  "1038": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "12:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "12:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "12:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "12:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "12:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "12:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "12:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "12:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "12:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "12:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "12:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "12:57"
+      }
+    ]
+  },
+  "1040": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "12:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "12:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "12:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "12:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "12:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "12:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "12:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "13:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "13:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "13:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "13:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "13:17"
+      }
+    ]
+  },
+  "1042": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "12:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "12:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "12:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "13:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "13:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "13:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "13:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "13:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "13:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "13:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "13:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "13:37"
+      }
+    ]
+  },
+  "1044": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "13:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "13:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "13:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "13:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "13:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "13:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "13:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "13:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "13:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "13:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "13:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "13:57"
+      }
+    ]
+  },
+  "1046": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "13:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "13:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "13:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "13:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "13:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "13:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "13:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "14:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "14:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "14:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "14:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "14:17"
+      }
+    ]
+  },
+  "1048": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "13:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "13:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "13:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "14:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "14:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "14:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "14:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "14:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "14:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "14:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "14:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "14:37"
+      }
+    ]
+  },
+  "1050": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "14:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "14:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "14:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "14:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "14:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "14:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "14:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "14:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "14:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "14:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "14:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "14:57"
+      }
+    ]
+  },
+  "1052": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "14:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "14:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "14:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "14:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "14:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "14:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "14:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "15:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "15:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "15:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "15:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "15:17"
+      }
+    ]
+  },
+  "1054": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "14:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "14:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "14:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "15:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "15:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "15:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "15:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "15:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "15:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "15:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "15:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "15:37"
+      }
+    ]
+  },
+  "1056": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "15:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "15:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "15:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "15:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "15:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "15:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "15:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "15:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "15:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "15:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "15:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "15:57"
+      }
+    ]
+  },
+  "1058": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "15:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "15:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "15:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "15:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "15:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "15:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "15:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "16:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "16:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "16:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "16:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "16:17"
+      }
+    ]
+  },
+  "1060": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "15:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "15:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "15:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "16:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "16:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "16:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "16:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "16:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "16:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "16:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "16:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "16:37"
+      }
+    ]
+  },
+  "1062": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "16:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "16:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "16:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "16:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "16:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "16:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "16:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "16:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "16:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "16:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "16:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "16:57"
+      }
+    ]
+  },
+  "1064": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "16:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "16:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "16:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "16:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "16:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "16:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "16:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "17:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "17:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "17:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "17:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "17:17"
+      }
+    ]
+  },
+  "1066": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "16:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "16:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "16:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "17:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "17:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "17:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "17:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "17:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "17:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "17:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "17:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "17:37"
+      }
+    ]
+  },
+  "1068": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "17:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "17:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "17:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "17:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "17:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "17:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "17:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "17:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "17:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "17:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "17:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "17:57"
+      }
+    ]
+  },
+  "1070": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "17:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "17:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "17:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "17:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "17:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "17:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "17:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "18:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "18:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "18:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "18:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "18:17"
+      }
+    ]
+  },
+  "1072": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "17:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "17:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "17:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "18:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "18:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "18:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "18:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "18:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "18:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "18:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "18:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "18:37"
+      }
+    ]
+  },
+  "1074": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "18:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "18:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "18:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "18:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "18:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "18:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "18:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "18:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "18:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "18:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "18:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "18:57"
+      }
+    ]
+  },
+  "1076": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "18:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "18:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "18:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "18:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "18:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "18:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "18:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "19:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "19:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "19:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "19:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "19:17"
+      }
+    ]
+  },
+  "1078": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "18:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "18:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "18:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "19:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "19:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "19:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "19:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "19:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "19:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "19:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "19:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "19:37"
+      }
+    ]
+  },
+  "1080": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "19:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "19:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "19:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "19:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "19:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "19:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "19:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "19:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "19:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "19:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "19:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "19:57"
+      }
+    ]
+  },
+  "1082": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "19:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "19:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "19:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "19:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "19:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "19:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "19:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "20:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "20:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "20:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "20:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "20:17"
+      }
+    ]
+  },
+  "1084": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "19:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "19:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "19:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "20:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "20:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "20:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "20:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "20:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "20:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "20:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "20:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "20:37"
+      }
+    ]
+  },
+  "1086": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "20:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "20:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "20:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "20:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "20:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "20:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "20:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "20:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "20:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "20:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "20:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "20:57"
+      }
+    ]
+  },
+  "1088": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "20:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "20:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "20:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "20:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "20:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "20:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "20:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "21:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "21:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "21:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "21:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "21:17"
+      }
+    ]
+  },
+  "1090": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "20:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "20:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "20:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "21:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "21:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "21:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "21:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "21:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "21:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "21:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "21:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "21:37"
+      }
+    ]
+  },
+  "1092": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "21:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "21:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "21:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "21:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "21:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "21:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "21:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "21:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "21:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "21:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "21:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "21:57"
+      }
+    ]
+  },
+  "1094": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "21:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "21:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "21:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "21:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "21:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "21:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "21:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "22:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "22:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "22:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "22:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "22:17"
+      }
+    ]
+  },
+  "1096": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "21:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "21:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "21:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "22:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "22:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "22:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "22:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "22:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "22:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "22:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "22:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "22:37"
+      }
+    ]
+  },
+  "1098": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "22:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "22:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "22:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "22:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "22:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "22:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "22:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "22:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "22:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "22:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "22:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "22:57"
+      }
+    ]
+  },
+  "1100": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "22:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "22:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "22:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "22:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "22:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "22:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "22:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "23:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "23:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "23:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "23:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "23:17"
+      }
+    ]
+  },
+  "1102": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "22:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "22:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "22:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "23:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "23:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "23:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "23:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "23:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "23:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "23:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "23:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "23:37"
+      }
+    ]
+  },
+  "1104": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "23:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "23:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "23:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "23:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "23:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "23:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "23:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "23:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "23:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "23:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "23:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "23:57"
+      }
+    ]
+  },
+  "1106": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "23:32",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "23:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "23:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "23:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "23:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "23:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "23:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "00:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "00:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "00:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "00:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "00:17"
+      }
+    ]
+  },
+  "1108": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "23:52",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "23:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "23:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "00:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "00:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "00:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "00:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "00:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "00:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "00:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "00:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "00:37"
+      }
+    ]
+  },
+  "1110": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Hergün",
+    "baslangic_saati": "00:12",
+    "kalkis_yeri": "Gayrettepe",
+    "varis_yeri": "Arnavutköy Hastane",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "00:12"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "00:16"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "00:20"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "00:25"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "00:29"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "00:37"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "00:41"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "00:44"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "00:47"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "00:53"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "00:57"
+      }
+    ]
+  },
+  "1112": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Belirtilmemiş",
+    "baslangic_saati": null,
+    "kalkis_yeri": "Unknown",
+    "varis_yeri": "Unknown",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "00:32"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "00:36"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "00:40"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "00:45"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "00:49"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "00:57"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "01:01"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "01:04"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "01:07"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "01:13"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "01:17"
+      }
+    ]
+  },
+  "1114": {
+    "hat": "Gayrettepe-Arnavutköy",
+    "isledigi_gun": "Belirtilmemiş",
+    "baslangic_saati": null,
+    "kalkis_yeri": "Unknown",
+    "varis_yeri": "Unknown",
+    "duraklar": [
+      {
+        "istasyon": "Gayrettepe",
+        "saat": "00:52"
+      },
+      {
+        "istasyon": "Kağıthane",
+        "saat": "00:56"
+      },
+      {
+        "istasyon": "Hasdal",
+        "saat": "01:00"
+      },
+      {
+        "istasyon": "Kemerburgaz",
+        "saat": "01:05"
+      },
+      {
+        "istasyon": "Göktürk",
+        "saat": "01:09"
+      },
+      {
+        "istasyon": "İhsaniye",
+        "saat": "01:17"
+      },
+      {
+        "istasyon": "Terminal 2",
+        "saat": "01:21"
+      },
+      {
+        "istasyon": "İstanbul Havalimanı",
+        "saat": "01:24"
+      },
+      {
+        "istasyon": "Kargo Terminali",
+        "saat": "01:27"
+      },
+      {
+        "istasyon": "Taşoluk",
+        "saat": "01:33"
+      },
+      {
+        "istasyon": "Arnavutköy Hastane",
+        "saat": "01:37"
+      }
+    ]
+  }
+}
